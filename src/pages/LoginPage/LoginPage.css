@@ -1,0 +1,10 @@
+.login_page{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form_container{
+    max-width: 600px;
+    width: 100%;
+}
